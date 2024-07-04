@@ -38,6 +38,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("This is a Admin-Dashboard-Backend");
+});
+
 // Routes
 app.use("/client", clientRoutes);
 app.use("/general", generalRoutes);
