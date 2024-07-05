@@ -162,7 +162,7 @@ const Sidebar = ({
                       sx={{
                         bgcolor:
                           active === Ictext
-                            ? theme.palette.secondary[300]
+                            ? theme.palette.secondary[700]
                             : "transparent",
                         color:
                           active === Ictext

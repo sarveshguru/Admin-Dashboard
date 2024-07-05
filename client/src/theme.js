@@ -1,44 +1,42 @@
 // color design tokens export
 export const tokensDark = {
   grey: {
-    0: "#ffffff", // manually adjusted
-    10: "#f6f6f6", // manually adjusted
-    50: "#f0f0f0", // manually adjusted
-    100: "#e0e0e0",
-    200: "#c2c2c2",
-    300: "#a3a3a3",
-    400: "#858585",
-    500: "#666666",
-    600: "#525252",
-    700: "#3d3d3d",
-    800: "#292929",
-    900: "#141414",
-    1000: "#000000", // manually adjusted
+    0: "#ffffff", // Unchanged
+    10: "#f7f7f7", // Slightly warmer for a softer look
+    50: "#f0f0f0", // Slightly warmer for a softer look
+    100: "#e1e1e1", // Warmer grey for better contrast
+    200: "#c2c2c2", // Warmer grey for better contrast
+    300: "#a3a3a3", // Unchanged
+    400: "#858585", // Unchanged
+    500: "#666666", // Unchanged
+    600: "#525252", // Unchanged
+    700: "#3d3d3d", // Unchanged
+    800: "#292929", // Unchanged
+    900: "#141414", // Unchanged
+    1000: "#000000", // Unchanged
   },
   primary: {
-    // blue
-    100: "#d3d4de",
-    200: "#a6a9be",
-    300: "#7a7f9d",
-    400: "#4d547d",
-    500: "#21295c",
-    600: "#191F45", // manually adjusted
-    700: "#141937",
-    800: "#0d1025",
-    900: "#070812",
+    100: "#A77979", // Light Red-Brown
+    200: "#926666", // Medium-light Red-Brown (adjusted from #704F4F)
+    300: "#7B5959", // Medium Red-Brown
+    400: "#553939", // Dark Red-Brown
+    500: "#472D2D", // Deep Red-Brown (main)
+    600: "#3A2323", // Darker Red-Brown
+    700: "#2C1A1A", // Even darker Red-Brown
+    800: "#1E1010", // Even darker Red-Brown
+    900: "#110707", // Darkest Red-Brown
   },
   secondary: {
-    // yellow
-    50: "#f0f0f0", // manually adjusted
-    100: "#fff6e0",
-    200: "#ffedc2",
-    300: "#ffe3a3",
-    400: "#ffda85",
-    500: "#ffd166",
-    600: "#cca752",
-    700: "#997d3d",
-    800: "#665429",
-    900: "#332a14",
+    50: "#f5e6e6", // Very light blush
+    100: "#ebcccc", // Light blush
+    200: "#d79999", // Medium-light blush
+    300: "#c46666", // Medium blush
+    400: "#b03333", // Medium-dark blush
+    500: "#8B3333", // Neutral blush
+    600: "#7A2A2A", // Darker blush
+    700: "#8C6F6F", // Updated lighter brown
+    800: "#360000", // Darkest blush
+    900: "#150000", // Very dark blush
   },
 };
 
