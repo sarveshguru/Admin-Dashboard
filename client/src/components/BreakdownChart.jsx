@@ -122,8 +122,10 @@ const BreakdownChart = ({ isDashboard = false }) => {
       />
       <Box
         position="absolute"
-        top="44.3%"
-        left="46.3%"
+        // top="44.3%"
+        // left="46.3%"
+        top={isDashboard ? "40%" : "44.3%"}
+        left={isDashboard ? "38%" : "46.3%"}
         color={theme.palette.secondary[400]}
         textAlign="center"
         pointerEvents="none"
