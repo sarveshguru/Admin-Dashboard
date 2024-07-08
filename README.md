@@ -1,9 +1,6 @@
-### 1. **Admin Dashboard**
-
-````markdown
 # Admin Dashboard
 
-![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard)
+![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard) 
 ![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
 ![Stars](https://img.shields.io/github/stars/sarveshguru/Admin-Dashboard?style=social)
 ![License](https://img.shields.io/github/license/sarveshguru/Admin-Dashboard)
@@ -38,8 +35,8 @@ The **Admin Dashboard** enhances business operations through a centralized inter
 
 ### 📷 Screenshots
 
-|             Dashboard Overview             |                 User Management                  |                 Product Management                  |
-| :----------------------------------------: | :----------------------------------------------: | :-------------------------------------------------: |
+| Dashboard Overview | User Management | Product Management |
+|:------------------:|:---------------:|:------------------:|
 | ![Dashboard](path/to/your/screenshot1.png) | ![User Management](path/to/your/screenshot2.png) | ![Product Management](path/to/your/screenshot3.png) |
 
 ### 🧑‍💻 Author & Contact
@@ -49,5 +46,3 @@ The **Admin Dashboard** enhances business operations through a centralized inter
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 - **Email**: [youremail@example.com](mailto:youremail@example.com)
 - **GitHub Contributions**: ![GitHub Contributions](https://img.shields.io/github/contributors/sarveshguru)
-
----
