@@ -5,6 +5,8 @@
 ![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
 ![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/Admin-Dashboard)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/sarveshguru/Admin-Dashboard)
+![GitHub repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
+- **Contributors**: [View GitHub Contributors](https://github.com/sarveshguru/Admin-Dashboard/graphs/contributors)
 
 > A comprehensive admin dashboard for managing products, users, transactions, and sales data, featuring real-time data visualizations and a dynamic UI.
 
