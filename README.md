@@ -3,7 +3,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard) 
 ![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
 ![Stars](https://img.shields.io/github/stars/sarveshguru/Admin-Dashboard?style=social)
-![License](https://img.shields.io/github/license/sarveshguru/Admin-Dashboard)
+[//]: # ![License](https://img.shields.io/github/license/sarveshguru/Admin-Dashboard)
 
 > A comprehensive admin dashboard for managing products, users, transactions, and sales data, featuring real-time data visualizations and a dynamic UI.
 
