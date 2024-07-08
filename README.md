@@ -1,9 +1,8 @@
 # Admin Dashboard
 
+![Website](https://img.shields.io/website?url=https://admin-dashboard-sc.netlify.app)
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard) 
 ![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
-![Stars](https://img.shields.io/github/stars/sarveshguru/Admin-Dashboard?style=social)
-[//]: # ![License](https://img.shields.io/github/license/sarveshguru/Admin-Dashboard)
 
 > A comprehensive admin dashboard for managing products, users, transactions, and sales data, featuring real-time data visualizations and a dynamic UI.
 
@@ -35,14 +34,13 @@ The **Admin Dashboard** enhances business operations through a centralized inter
 
 ### 📷 Screenshots
 
-| Dashboard Overview | User Management | Product Management |
-|:------------------:|:---------------:|:------------------:|
-| ![Dashboard](path/to/your/screenshot1.png) | ![User Management](path/to/your/screenshot2.png) | ![Product Management](path/to/your/screenshot3.png) |
+| Dashboard Overview (Light Mode)| Dashboard Overview (Dark Mode)| Geography Overview | Daily Overview |
+|:------------------:|:---------------:|:------------------:|:------------------:|
+| ![Dashboard (Light Mode)](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/b801a72f-e0ab-45ec-a443-3eafb66c1fd4) | ![Dashboard (Dark Mode)](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/9582e916-c09a-458b-a023-6ffb616a1826) | ![Geography](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/a2ae13d6-6d58-4fdb-9209-f88fe4f1c250) | ![Daily](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/07630a63-0c25-4181-a7da-878952dd188b) |
 
 ### 🧑‍💻 Author & Contact
 
-- **Author**: [Sarvesh Guru](https://github.com/sarveshguru)
-- **LinkedIn**: [Sarvesh Guru](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **GitHub Contributions**: ![GitHub Contributions](https://img.shields.io/github/contributors/sarveshguru)
+- **Author**: [Sarvesh Choudhary](https://github.com/sarveshguru)
+- **LinkedIn**: [Sarvesh Choudhary](https://www.linkedin.com/in/your-profile)
+- **Portfolio**: [My Portfolio Website](https://sarvesh-choudhary-portfolio.netlify.app)
+- **Email**: [youremail@example.com](mailto:csarvesh288@gmail.com)
