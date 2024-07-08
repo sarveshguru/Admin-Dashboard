@@ -3,6 +3,8 @@
 ![Website](https://img.shields.io/website?url=https://admin-dashboard-sc.netlify.app)
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard) 
 ![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
+![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/Admin-Dashboard)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/sarveshguru/Admin-Dashboard)
 
 > A comprehensive admin dashboard for managing products, users, transactions, and sales data, featuring real-time data visualizations and a dynamic UI.
 
