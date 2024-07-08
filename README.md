@@ -2,11 +2,9 @@
 
 ![Website](https://img.shields.io/website?url=https://admin-dashboard-sc.netlify.app)
 ![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Admin-Dashboard) 
-![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
 ![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/Admin-Dashboard)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/sarveshguru/Admin-Dashboard)
-![GitHub repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
-- **Contributors**: [View GitHub Contributors](https://github.com/sarveshguru/Admin-Dashboard/graphs/contributors)
+![Contributors](https://img.shields.io/github/contributors/sarveshguru/Admin-Dashboard)
 
 > A comprehensive admin dashboard for managing products, users, transactions, and sales data, featuring real-time data visualizations and a dynamic UI.
 
@@ -48,7 +46,41 @@ The **Admin Dashboard** enhances business operations through a centralized inter
 |:------------------:|
 | ![admin-dashboard](https://github.com/sarveshguru/Admin-Dashboard/assets/72163818/8c32f101-5144-49c9-8a62-5ad7f2b7ebb2) |
 
+### 🌐 Live Demo
 
+Check out the live demo: [Admin Dashboard](https://admin-dashboard-sc.netlify.app)
+
+### 🚀 Getting Started
+
+To get started with the project, follow these steps:
+
+#### Client Side
+
+1. Navigate to the client directory:
+   ```bash
+   cd client
+   
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the client:
+   ```bash
+   npm start
+
+#### Server Side
+
+1. Navigate to the server directory:
+   ```bash
+   cd server
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the server:
+   ```bash
+   npm start
 
 ### 🧑‍💻 Author & Contact
 
